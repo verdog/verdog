@@ -4,5 +4,5 @@
   https://dogspluspl.us
 </p>
 <p align="center">
-  <img width="256" src=https://dogspluspl.us/smalldog.gif>
+  <img width="256" src=https://dogspluspl.us/img/smalldog.gif>
 </p>
