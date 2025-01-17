@@ -1,5 +1,5 @@
 <p align="center">
-  compilers, debuggers, computer graphics, fast code, chiptunes
+  compilers, debuggers, computer graphics, HPC, fast code, chiptunes
   <br>
   https://dogspluspl.us
 </p>
